@@ -1,6 +1,5 @@
 ### IntelliJ IDEA ###
-Variable/out/
-Conditional/out/
+out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
